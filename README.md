@@ -2,7 +2,7 @@
 
 
 ## :mag: The content
-In these exercises, I had to design a **database for a Dogsitters website*.
+In these exercises, I had to design a **database for a Dogsitters website**.
 
 **After cloning the repository, make sure to do :**
 ```sh
